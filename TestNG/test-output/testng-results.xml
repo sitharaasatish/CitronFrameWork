@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="187749" started-at="2020-01-04T10:18:37 IST" finished-at="2020-01-04T10:21:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="187749" started-at="2020-01-04T10:18:37 IST" finished-at="2020-01-04T10:21:45 IST">
+      <class name="com.testng.TestNG.CalendarTestNG">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testng.TestNG.CalendarTestNG@5d76b067]" name="setup" is-config="true" duration-ms="97832" started-at="2020-01-04T10:18:37 IST" finished-at="2020-01-04T10:20:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="calendar()[pri:1, instance:com.testng.TestNG.CalendarTestNG@5d76b067]" name="calendar" duration-ms="8470" started-at="2020-01-04T10:20:15 IST" finished-at="2020-01-04T10:20:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calendar -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testng.TestNG.CalendarTestNG@5d76b067]" name="setup" is-config="true" duration-ms="73079" started-at="2020-01-04T10:20:24 IST" finished-at="2020-01-04T10:21:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="calendar2()[pri:2, instance:com.testng.TestNG.CalendarTestNG@5d76b067]" name="calendar2" duration-ms="8138" started-at="2020-01-04T10:21:37 IST" finished-at="2020-01-04T10:21:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calendar2 -->
+      </class> <!-- com.testng.TestNG.CalendarTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

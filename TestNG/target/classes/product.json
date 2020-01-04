@@ -1,0 +1,24 @@
+
+
+
+{
+        "product"        : 
+        [
+                {
+                        "FirstName"   : "Aditya Kumar",
+                        "LastName"    : "Roy",
+                        "Phone"       : "7589698874",
+                        "Email"                  : "aditya@test.com",
+                        "Address"     : "337 pentagan street",
+                        "City"        : "Amstalveen",
+                        "Province"    : "North Holland",
+                        "Postal Code" : "11801189",
+                        "Country"     : "NETHERLANDS",
+                        "UserID"             : "Aditya@74",
+                          "Password"           : "Test12345",
+                          "ConPassword" : "Test12345"
+                  }
+               
+                  
+          ]                
+ }

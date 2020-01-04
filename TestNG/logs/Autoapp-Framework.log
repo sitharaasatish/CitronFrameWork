@@ -1,0 +1,8 @@
+2020-01-04 00:09:55 INFO  Calender:77 - 2 days pervious date selected from present date
+2020-01-04 00:09:59 INFO  Calender:89 - Selected required month
+2020-01-04 00:10:00 INFO  Calender:96 - Selected required date
+2020-01-04 10:20:20 INFO  Calender:53 - Entered Invalid Date Format
+2020-01-04 10:20:22 INFO  Calender:63 - Format Alert message is displayed
+2020-01-04 10:21:41 INFO  Calender:77 - 2 days pervious date selected from present date
+2020-01-04 10:21:43 INFO  Calender:89 - Selected required month
+2020-01-04 10:21:44 INFO  Calender:96 - Selected required date
